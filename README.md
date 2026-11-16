@@ -4,7 +4,7 @@
 
 # Kalashas
 
-**Simulation game integrations and custom OBS plugins.**<br>
+**Simulation game integrations, custom OBS plugins, Linux servers and hosting.**<br>
 <sub>C# · Java · JavaScript · most of it private</sub>
 
 </div>
@@ -21,7 +21,7 @@
 - 9 in-house plugins, 70+ Java files
 - Economy built on atomic, race-free transactions: money cannot be duplicated
 
-**Self-hosting**: my own services in Docker on Linux
+**Servers and hosting**: Linux administration, containerised services, game server operations
 
 ### Stack
 
