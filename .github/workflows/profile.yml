@@ -23,11 +23,10 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+          SETTING_JSON: .github/3d.json
       - name: Collect 3D graphs
         run: |
-          ls profile-3d-contrib
-          cp profile-3d-contrib/profile-night-view.svg dist/3d-dark.svg
-          cp profile-3d-contrib/profile-gitblue.svg dist/3d-light.svg
+          cp profile-3d-contrib/profile-kalashas.svg dist/3d.svg
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output

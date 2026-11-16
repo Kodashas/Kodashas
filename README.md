@@ -16,10 +16,7 @@
 
 <img src="assets/divider.svg" alt="" width="830">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kodashas/Kodashas/output/3d-dark.svg">
-  <img src="https://raw.githubusercontent.com/Kodashas/Kodashas/output/3d-light.svg" alt="Contributions in 3D" width="830">
-</picture>
+<img src="https://raw.githubusercontent.com/Kodashas/Kodashas/output/3d.svg" alt="Contributions in 3D" width="830">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kodashas/Kodashas/output/snake-dark.svg">
