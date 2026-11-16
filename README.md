@@ -4,13 +4,22 @@
 
 <img src="assets/roles.svg?v=4" alt="works on my machine" width="830">
 
+<img src="https://raw.githubusercontent.com/Kodashas/Kodashas/output/now.svg" alt="Live: Twitch followers, iRating, Steam hours, MC ŽEMĖ players" width="830">
+
+<img src="assets/divider.svg" alt="" width="830">
+
 <img src="assets/cards.svg?v=3" alt="88k lines of code, 20+ self-hosted services, 35 iRacing overlay widgets, 9 MC ŽEMĖ plugins, 4 brand kits, 1.6K Twitch followers" width="830">
 
 <br><br>
 
 <img src="assets/stack.svg" alt="C#, Java, JavaScript, Python, Lua, .NET, Node.js, Linux, Docker, Nginx, MariaDB, Redis, Git">
 
-<br><br>
+<img src="assets/divider.svg" alt="" width="830">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kodashas/Kodashas/output/3d-dark.svg">
+  <img src="https://raw.githubusercontent.com/Kodashas/Kodashas/output/3d-light.svg" alt="Contributions in 3D" width="830">
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kodashas/Kodashas/output/snake-dark.svg">
