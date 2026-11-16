@@ -10,15 +10,4 @@
 
 <img src="assets/stack.svg" alt="C#, Java, JavaScript, Python, Lua, .NET, Node.js, Linux, Docker, Nginx, MariaDB, Redis, Git">
 
-<br><br>
-
-<img src="assets/divider.svg" alt="" width="830">
-
-<br><br>
-
-<a href="https://kalashas.lt"><img src="https://img.shields.io/badge/kalashas.lt-2F7CFF?style=for-the-badge" alt="kalashas.lt"></a>
-<a href="https://www.twitch.tv/kalashas"><img src="https://img.shields.io/badge/Twitch-0A0E16?style=for-the-badge&logo=twitch&logoColor=9146FF" alt="Twitch"></a>
-<a href="https://www.youtube.com/@Kalashas"><img src="https://img.shields.io/badge/YouTube-0A0E16?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="YouTube"></a>
-<a href="https://discord.gg/7VNbm9vyvM"><img src="https://img.shields.io/badge/Discord-0A0E16?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord"></a>
-
 </div>
