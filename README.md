@@ -17,11 +17,9 @@
 
 ### Ką darau / What I build
 
-| | |
-|---|---|
-| **KalashSoft** | My own stream system. Overlay windows, a voice that reads chat out loud, live telemetry from iRacing, ETS2, Assetto Corsa, DiRT Rally 2.0 and BeamNG. Everything you see on stream runs on it. |
-| **[MC ŽEMĖ](https://mczeme.lt)** | Lithuanian Minecraft network I co-build. Own plugins, patched third-party ones, the economy that does not dupe money. |
-| **[kalashas.lt](https://kalashas.lt)** | Channel site on Cloudflare Pages: last streams, Steam hours and iRacing numbers pulled live. |
+- **KalashSoft**: my own stream system. Overlay windows, a voice that reads chat out loud, live telemetry from iRacing, ETS2, Assetto Corsa, DiRT Rally 2.0 and BeamNG. Everything you see on stream runs on it.
+- **[MC ŽEMĖ](https://mczeme.lt)**: Lithuanian Minecraft network I co-build. Own plugins, patched third-party ones, an economy that does not dupe money.
+- **[kalashas.lt](https://kalashas.lt)**: channel site on Cloudflare Pages. Last streams, Steam hours and iRacing numbers pulled live.
 
 ### Merged upstream
 
