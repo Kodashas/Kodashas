@@ -28,7 +28,7 @@
 
 ### Stack
 
-| | |
+| Area | Tools |
 |---|---|
 | Languages | <img src="https://skillicons.dev/icons?i=cs,java,js,python,bash,powershell&theme=dark" alt="C#, Java, JavaScript, Python, Bash, PowerShell" height="40"> |
 | Runtimes and engines | <img src="https://skillicons.dev/icons?i=dotnet,nodejs,godot&theme=dark" alt=".NET, Node.js, Godot" height="40"> |
