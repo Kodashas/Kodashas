@@ -13,7 +13,7 @@
 
 - Native telemetry readers for **iRacing, Assetto Corsa, DiRT Rally 2.0, ETS2 and BeamNG**: shared memory, UDP streams, SDK session data
 - In-game apps that run inside the sim, plus external overlays fed by the same data
-- Race state turned into live events: battles, incidents, pit stops, fuel, weather
+- Race state turned into live events: battles, incidents, pit stops, fuel
 
 ### OBS and live production
 
