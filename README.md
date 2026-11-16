@@ -5,32 +5,49 @@
 # Kalashas
 
 **Simulation game integrations, custom OBS plugins, Linux servers and hosting.**<br>
-<sub>C# · Java · JavaScript · most of it private</sub>
+<sub>C# · Java · JavaScript · Python · Lua · most of it private</sub>
 
 </div>
 
-### What I've built
+### Sim integrations
 
-**KalashSoft**: sim telemetry and OBS tooling that runs my live streams end to end
+- Native telemetry readers for **iRacing, Assetto Corsa, DiRT Rally 2.0, ETS2 and BeamNG**: shared memory, UDP streams, SDK session data
+- In-game apps that run inside the sim, plus external overlays fed by the same data
+- Race state turned into live events: battles, incidents, pit stops, fuel, weather
+
+### OBS and live production
+
+**KalashSoft**: the engine that runs my streams end to end
 - Node.js 24 with **zero npm dependencies**, ~88k lines, 500+ commits, 170+ test files
-- Telemetry from five racing sims through native C# readers (shared memory, UDP)
-- Drives OBS over WebSocket, reacts to Twitch events, reads chat out loud, meters loudness, runs a Stream Deck
-- Scene director, incident handling and crash recovery so the stream keeps going without me touching it
+- Custom OBS plugins and Lua scripts, full control over WebSocket
+- Scene director, incident handling and crash recovery: the stream keeps going without me touching it
+- Twitch events, chat read out loud, loudness metering, Stream Deck control
+- Multi-platform output with GPU encoding
 
-**Minecraft network**: Java backend for a Lithuanian server I co-build
-- 9 in-house plugins, 70+ Java files
+### Game servers
+
+- Multi-server Minecraft network behind a proxy, 9 in-house Java plugins
 - Economy built on atomic, race-free transactions: money cannot be duplicated
+- REST API for the network's mobile app: Fastify, SQL, rate limiting, containerised
 
-**Servers and hosting**: Linux administration, containerised services, game server operations
+### Servers and hosting
+
+- Linux administration across cloud and on-prem machines
+- 20+ containerised services: reverse proxy with TLS, databases, cache, media, monitoring
+- Zero-trust tunnels and mesh VPN instead of open ports
+- Firewall, intrusion banning, uptime checks and push alerts
+- Automated encrypted backups, database dumps, UPS-aware shutdowns
+- DNS, edge functions, bot protection and mail routing for several domains
 
 ### Stack
 
 | Area | Tools |
 |---|---|
-| Languages | <img src="https://skillicons.dev/icons?i=cs,java,js,python,bash,powershell&theme=dark" alt="C#, Java, JavaScript, Python, Bash, PowerShell" height="40"> |
+| Languages | <img src="https://skillicons.dev/icons?i=cs,java,js,python,lua,bash,powershell&theme=dark" alt="C#, Java, JavaScript, Python, Lua, Bash, PowerShell" height="40"> |
 | Runtimes | <img src="https://skillicons.dev/icons?i=dotnet,nodejs&theme=dark" alt=".NET, Node.js" height="40"> |
+| Data | <img src="https://skillicons.dev/icons?i=mysql,redis&theme=dark" alt="MySQL, Redis" height="40"> |
 | Web | <img src="https://skillicons.dev/icons?i=html,css&theme=dark" alt="HTML, CSS" height="40"> |
-| Ops | <img src="https://skillicons.dev/icons?i=docker,linux,git&theme=dark" alt="Docker, Linux, Git" height="40"> |
+| Ops | <img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,nginx,git&theme=dark" alt="Linux, Ubuntu, Docker, Nginx, Git" height="40"> |
 
 ### Open source
 
