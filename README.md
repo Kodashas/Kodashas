@@ -8,7 +8,7 @@
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=cs,java,js,python,lua,dotnet,nodejs,linux,docker,nginx,mysql,redis,git&perline=13&theme=dark" alt="C#, Java, JavaScript, Python, Lua, .NET, Node.js, Linux, Docker, Nginx, MySQL, Redis, Git">
+<img src="assets/stack.svg" alt="C#, Java, JavaScript, Python, Lua, .NET, Node.js, Linux, Docker, Nginx, MariaDB, Redis, Git">
 
 <br><br>
 
