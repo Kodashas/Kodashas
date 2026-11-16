@@ -5,8 +5,9 @@ import fs from 'node:fs';
 const get = async (url) => {
   try {
     const r = await fetch(url, { headers: { 'user-agent': 'kalashas-profile' }, signal: AbortSignal.timeout(10000) });
+    if (!r.ok) console.log(url, r.status, r.headers.get("server"));
     return r.ok ? await r.json() : null;
-  } catch { return null; }
+  } catch (e) { console.log(url, String(e)); return null; }
 };
 const [tw, ir, st, mc] = await Promise.all([
   get('https://kalashas.lt/api/twitch'), get('https://kalashas.lt/api/iracing'),
