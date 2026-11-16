@@ -4,7 +4,7 @@
 
 # Kalashas
 
-**Real-time systems, game servers and games.**<br>
+**Real-time systems and game servers.**<br>
 <sub>C# · Java · JavaScript · most of it private</sub>
 
 </div>
@@ -21,9 +21,6 @@
 - 9 in-house plugins, 70+ Java files
 - Economy built on atomic, race-free transactions: money cannot be duplicated
 
-**Unannounced game**: Godot 4 with .NET
-- 600+ C# files, 70+ merged pull requests, automated test suite
-
 **Self-hosting**: my own services in Docker on Linux
 
 ### Stack
@@ -31,7 +28,7 @@
 | Area | Tools |
 |---|---|
 | Languages | <img src="https://skillicons.dev/icons?i=cs,java,js,python,bash,powershell&theme=dark" alt="C#, Java, JavaScript, Python, Bash, PowerShell" height="40"> |
-| Runtimes and engines | <img src="https://skillicons.dev/icons?i=dotnet,nodejs,godot&theme=dark" alt=".NET, Node.js, Godot" height="40"> |
+| Runtimes | <img src="https://skillicons.dev/icons?i=dotnet,nodejs&theme=dark" alt=".NET, Node.js" height="40"> |
 | Web | <img src="https://skillicons.dev/icons?i=html,css&theme=dark" alt="HTML, CSS" height="40"> |
 | Ops | <img src="https://skillicons.dev/icons?i=docker,linux,git&theme=dark" alt="Docker, Linux, Git" height="40"> |
 
