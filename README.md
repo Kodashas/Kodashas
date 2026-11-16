@@ -21,12 +21,9 @@
 - **[MC ŽEMĖ](https://mczeme.lt)**: Lithuanian Minecraft network I co-build. Plugins and server code, from economy to events.
 - **[kalashas.lt](https://kalashas.lt)**: channel site, hand-written. Streams, hours in games and race numbers update on their own.
 
-### Merged upstream
+### Open source
 
-- [DiscordGSM/GameServerMonitor#197](https://github.com/DiscordGSM/GameServerMonitor/pull/197): restored Lithuanian translation
-- [shbsltd/avs03-translations#31](https://github.com/shbsltd/avs03-translations/pull/31): Lithuanian translation
-- [ez-plugins/EzAfk#45](https://github.com/ez-plugins/EzAfk/pull/45): fixed AFK title and subtitle message keys
-- [AdvancedPlugins/Chat#291](https://github.com/AdvancedPlugins/Chat/pull/291): Lithuanian translation
+Lithuanian translations and fixes merged into other people’s projects.
 
 ### Stack
 
