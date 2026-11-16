@@ -4,14 +4,14 @@
 
 # Kalashas
 
-**Real-time systems and game servers.**<br>
+**Simulation game integrations and custom OBS plugins.**<br>
 <sub>C# · Java · JavaScript · most of it private</sub>
 
 </div>
 
 ### What I've built
 
-**KalashSoft**: a real-time engine that runs my live streams end to end
+**KalashSoft**: sim telemetry and OBS tooling that runs my live streams end to end
 - Node.js 24 with **zero npm dependencies**, ~88k lines, 500+ commits, 170+ test files
 - Telemetry from five racing sims through native C# readers (shared memory, UDP)
 - Drives OBS over WebSocket, reacts to Twitch events, reads chat out loud, meters loudness, runs a Stream Deck
