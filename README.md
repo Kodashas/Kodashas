@@ -5,7 +5,7 @@
 # Kalashas
 
 **Real-time systems, game servers and games.**<br>
-<sub>C# · Java · JavaScript · most of it private, all of it in production.</sub>
+<sub>C# · Java · JavaScript · most of it private</sub>
 
 </div>
 
@@ -17,14 +17,14 @@
 - Drives OBS over WebSocket, reacts to Twitch events, reads chat out loud, meters loudness, runs a Stream Deck
 - Scene director, incident handling and crash recovery so the stream keeps going without me touching it
 
-**Minecraft network**: Java backend for a Lithuanian server I co-run
+**Minecraft network**: Java backend for a Lithuanian server I co-build
 - 9 in-house plugins, 70+ Java files
-- Economy built on atomic, race-free transactions: money cannot be duplicated, even under load
+- Economy built on atomic, race-free transactions: money cannot be duplicated
 
 **Unannounced game**: Godot 4 with .NET
 - 600+ C# files, 70+ merged pull requests, automated test suite
 
-**Self-hosting**: my own services in Docker on Linux, no managed platforms in between
+**Self-hosting**: my own services in Docker on Linux
 
 ### Stack
 
@@ -47,6 +47,6 @@ Lithuanian translations and bug fixes merged into other people's projects.
 <a href="https://www.youtube.com/@Kalashas"><img src="https://img.shields.io/badge/YouTube-0A0E16?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="YouTube"></a>
 <a href="https://discord.gg/7VNbm9vyvM"><img src="https://img.shields.io/badge/Discord-0A0E16?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord"></a>
 
-<sub>Everything above runs live on stream.</sub>
+<sub>The stream engine is live whenever I am.</sub>
 
 </div>
